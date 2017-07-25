@@ -1,7 +1,3 @@
-/*  team worker: Jie Liu (JL839997) ,
- *  Jie Liu implemented: main method, checkSuffix(), checkPre(), find(), insertion(), search(), get_table();
- *  Testing work: Jie Liu
- */
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
